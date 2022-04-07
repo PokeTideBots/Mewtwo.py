@@ -1,11 +1,6 @@
 # HEXA_INFO_SOBOT - chat bot
 It is repository for chat bot: [@HEXA_INFO_SOBOT](https://t.me/HEXA_INFO_SOBOT)
 
-## What it is?
-This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
-
-[Bots.Business](https://bots.business) - it is probably the first CBPaaS - Chat Bot Platform as a Service.
-
 A CBPaaS is a cloud-based platform that enables developers to create chatbots without needing to build backend infrastructure.
 
 ## Create your own bot for Telegram from this Git repo
