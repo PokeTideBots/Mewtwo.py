@@ -1,5 +1,5 @@
 /*CMD
-  command: /quite@HEXA_INFO_SOBOT
+  command: /quite@HEXA_INFO_BOT
   help: 
   need_reply: false
   auto_retry_time: 
