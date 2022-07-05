@@ -1,5 +1,5 @@
-# HEXA_INFO_SOBOT - chat bot
-It is repository for chat bot: [@HEXA_INFO_SOBOT](https://t.me/HEXA_INFO_SOBOT)
+# HEXA_INFO_BOT - chat bot
+It is repository for chat bot: [@HEXA_INFO_BOT](https://telegram.me/HEXA_INFO_BOT)
 
 A CBPaaS is a cloud-based platform that enables developers to create chatbots without needing to build backend infrastructure.
 
