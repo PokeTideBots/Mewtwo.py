@@ -16,7 +16,7 @@
 CMD*/
 
 var button = [
-[{title : "SUPPORT" , url : "https://t.me/HEXA_AKATSUKI"}]
+[{title : "SUPPORT" , url : "https://t.me/Pokemon_Group_Telegram"}]
 ]
 
 Bot.sendInlineKeyboard(button, "*Type  :  grass\nStrong Against: Ground, Rock, Water\nWeak Against: Flying, Poison, Bug, Steel, Fire, Grass, Dragon\nResistant To : Ground, Water, Grass, Electric\nVulnerable To: Flying, Poison, Bug, Fire, Ice*")
