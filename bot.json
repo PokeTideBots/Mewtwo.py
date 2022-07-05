@@ -1,6 +1,6 @@
 {
   "bb_sync_version":"1.0",
-  "name":"HEXA_INFO_SOBOT",
-  "csv_url":"git@github.com:dyno-create/Mewtwo.py.git",
-  "git_remote":"git@github.com:dyno-create/Mewtwo.py"
+  "name":"HEXA_INFO_BOT",
+  "csv_url":"git@github.com:PokeTideBots/Mewtwo.py.git",
+  "git_remote":"git@github.com:PokeTideBots/Mewtwo.py"
 }
