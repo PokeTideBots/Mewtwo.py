@@ -1,5 +1,5 @@
 {
-    "name": "InhumanDex",
+    "name": "InhumanDexBeta",
     "description": "InhumanDex is a bot which acts as a helper for trainers on Telegram. You can check information of Pokemon, Showdown usage and organize Raids as quickly as possible, without ever leaving the app",
     "keywords": [
       "InhumanDex"
@@ -23,7 +23,7 @@
     "addons": [],
     "buildpacks": [
       {
-        "url": "heroku/python"
+        "url": "heroku/nodejs"
       }
     ]
   }
